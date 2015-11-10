@@ -18,3 +18,9 @@ Notes
 7. Use the body to explain what and why vs. how
 
 See the blog post: [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/) for details.
+
+Other readings relating to Git commit messaging:
+
+- [A Note About Git Commit Messages -- Tim Pope](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+- [Commit messages - Good practices -- SlideShare](http://www.slideshare.net/TarinGamberini/commit-messages-goodpractices)
+- [A bad commit message example](http://stopwritingramblingcommitmessages.com/)
