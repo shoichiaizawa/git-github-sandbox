@@ -37,7 +37,14 @@ I am going to add detailed TODOs for each app soon.
 
 I am also going to list up my working plan for the projects, especially the bingo game app.
 
-### TODO-2: foo
+### TODO-2: Some stuff to sort out before 2016 comes
+
+- [] Do a clean install the OS X on the SSD, which I bought at the end of April (OMG, I am so lazy...)
+  - [] foo
+  - [] bar
+  - [] baz
+- [] bar
+- [] baz
 
 Notes
 -----
