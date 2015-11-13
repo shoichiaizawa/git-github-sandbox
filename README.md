@@ -1,14 +1,69 @@
-git-test-repo
-=============
+git-github-sandbox
+==================
 
-A repository does not do anything but just exists for me to be able to practise git commands and see how all my actions can affect both local and remote.
+A repository does not do anything but just exists for me to be able to play around with git commands and see how all my actions can affect both local and remote.
 
 I am also planning to use this repository as my todo lists for my projects or general stuff, for now at least I can say.
 
 TODOs
 -----
 
-### TODO-1: Creating simple Meteor apps for people
+![Eisenhower Matrix](img/eisenhower-box.jpg)
+
+Upon assigning my daily tasks, I am planning to use the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method). I might not use the method as it is supposed to be but I roughly use this method in a way that I feel comfortable work on. Instead of using the four quadrants I use unordered list.
+
+### Eisenhower List
+
+##### TODO-1: Important, Urgent
+
+- [ ] Reply emails
+- [ ] Sort contracts
+
+##### TODO-2: Important, Not urgent
+
+- [ ] Install some basic npm packages globally for tweaking
+    - Install global npm packages; for example:
+        - jslint, jshint or eshint; get the best one
+        - gulp
+        - grunt-cli
+        - coffee-script
+        - bower
+        - browserify
+        - https://github.com/suan/vim-instant-markdown
+        - etc
+    - I had some npm packages installed with the Homebrew version of Node.js -- I deleted everything already TODO: summarise how how to delete Node.js and npm from the system; these were the global packages installed previously:
+
+        ```
+        $ npm list -g --depth=0
+        /usr/local/lib
+        ├── bower@1.6.3
+        ├── browserify@11.2.0
+        ├── doctoc@0.15.0
+        ├── gulp@3.9.0
+        ├── javascripting@2.1.0
+        ├── npm@3.3.9
+        └── ungit@0.9.3
+        ```
+- Install Vim plug-ins or tweak settings:
+    - markdown related
+    - completion
+    - syntax highlighter
+
+##### TODO-3: Not important, Urgent
+
+- [ ] foo
+- [ ] bar
+- [ ] baz
+
+##### TODO-4: Not important, Not urgent
+
+- [ ] fix errors on existing jekyll projects
+- [ ] Find a decent version control software for design projects
+- [ ] Install f.lux on iPhone
+- [ ] Read though http://www.codenewbie.org/
+- [ ] Look into [karan/joe](https://github.com/karan/joe), a gitignore file generator
+
+### TODO-lst-1: Creating simple Meteor apps for people
 
 Recently I came up with the Meteor JavaScript framework and I am in an excitement.
 
@@ -39,48 +94,38 @@ I am going to add detailed TODOs for each app soon.
 
 I am also going to list up my working plan for the projects, especially the bingo game app.
 
-### TODO-2: Some stuff to sort out before 2016 comes
+### TODO-lst-2: Some stuff to sort out before 2016 comes
 
 - [ ] Do a clean install the OS X on the SSD, which I bought at the end of April (OMG, I am so lazy...)
-    - [ ] foo
-    - [ ] bar
-    - [ ] baz
+- [ ] Delete unused Mac apps
+  - I need to do clean install anyway but it would be nice to identify what is important and what is not prior to making the action
 - [ ] Delete unused iPhone apps
-- [ ] Air the jekyll blog, with or without a unique domain
 
-### TODO-3: Some random tasks to do
+### TODO-lst-3: Some random tasks to do
 
-- [ ] install some basic global packages for tweaking
-    - I had some packages installed with the Homebrew version of Node.js -- this was deleted already TODO: summarise how how to delete Node.js and npm from the system
-    - these were the global packages installed previously:
 
-        ```
-        $ npm list -g --depth=0
-        /usr/local/lib
-        ├── bower@1.6.3
-        ├── browserify@11.2.0
-        ├── doctoc@0.15.0
-        ├── gulp@3.9.0
-        ├── javascripting@2.1.0
-        ├── npm@3.3.9
-        └── ungit@0.9.3
-        ```
-
-    - find out what else is good to be installed globally
-        - Some says these packages should be installed
-            - coffee-script
-            - grunt-cli
-- [ ] fix errors on existing jekyll projects
-- [ ] foo
-- [ ] bar
-- [ ] baz
-
-DID
+DONEs
 ---
+
+### 2015-11-13
+
+##### Summary
+
+I was planning to work on the existing jekyll generated blog powered by jekyll-bootstrap and host it at username.github.io but in the end I abandoned it. I changed the name of the repository and created another repository named username.github.io.
+There is no content at this time. So my next goal about static site blogging is to wrote blog post in a regular basis. I was recommended that I should still to a regular publishing plan. Whether publishing once a day, once in three days or once in a week, it is important to keep on doing it.
+
+- [x] Air the jekyll blog, with or without a unique domain
+
+Not important but I wanted to do
+
+- [x] Subscribe Meteor newsletter -> answered survey
+- [x] Sign up at https://unsplash.com/
 
 ### 2015-11-12
 
-Summary: As planned I did install Node.js and npm via nvm. Spending much time on reading about how to install nvm, I came across some people insisting that [nvm should not be installed via Homebrew at all](https://github.com/creationix/nvm/issues/469) (and even saying nvm installation with Homebrew is an unofficial method; thus one should install nvm only the official way) but I used Homebrew to install it.
+##### Summary
+
+As planned I did install Node.js and npm via nvm. Spending much time on reading about how to install nvm, I came across some people insisting that [nvm should not be installed via Homebrew at all](https://github.com/creationix/nvm/issues/469) (and even saying nvm installation with Homebrew is an unofficial method; thus one should install nvm only the official way) but I used Homebrew to install it.
 
 Here are some of the websites/blogs I visited when installing nvm:
 
@@ -88,20 +133,22 @@ Here are some of the websites/blogs I visited when installing nvm:
 - http://stackoverflow.com/questions/28017374/what-is-the-suggested-way-to-install-brew-node-js-io-js-nvm-npm-on-os-x
 - http://sourabhbajaj.com/mac-setup/Node.js/README.html
 
-##### TODOs done
+##### Original TODOs
 
-- [x] install Node.js via brew, nvm, n, nodebrew, or others
+- [x] Install Node.js via brew, nvm, n, nodebrew, or others
     - I would probably go with nvm as it has the most stars on GitHub among other Node.js version managers. Also nvm seems the most active on GitHub
     - Numbers of stars for each project (as of 2015-11-12):
         - [creationix/nvm](https://github.com/creationix/nvm) -- 9168 stars
         - [tj/n](https://github.com/tj/n) -- 3252 stars
         - [hokaccha/nodebrew](https://github.com/hokaccha/nodebrew) -- 459 stars
-    - install npm -- npm is automatically comes with a Node.js installation unless you exclude it
+    - Install npm -- npm is automatically comes with a Node.js installation unless you exclude it
 
 Notes
 -----
 
-### The seven rules of a great git commit message
+### git commit
+
+#### The seven rules of a great git commit message
 
 1. Separate subject from body with a blank line
 2. Limit the subject line to 50 characters
@@ -118,3 +165,12 @@ Other readings relating to Git commit messaging:
 - [A Note About Git Commit Messages -- Tim Pope](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
 - [Commit messages - Good practices -- SlideShare](http://www.slideshare.net/TarinGamberini/commit-messages-goodpractices)
 - [A bad commit message example](http://stopwritingramblingcommitmessages.com/)
+
+### git remote
+
+- [Renaming a remote](https://help.github.com/articles/renaming-a-remote/)
+- [Renaming a repository](https://help.github.com/articles/renaming-a-repository/)
+
+### untitled
+
+$ git config --global github.user GITHUB_USERNAME
