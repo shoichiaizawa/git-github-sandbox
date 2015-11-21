@@ -1,16 +1,22 @@
 git-github-sandbox
 ==================
 
-A repository does not do anything but just exists for me to be able to play around with git commands and see how all my actions can affect both local and remote.
+A repository does not do anything but solely exists for me to be able to play around with git commands and see how all my actions can affect both local and remote repositories.
 
-I am also planning to use this repository as my todo lists for my projects or general stuff, for now at least I can say.
+I am also planning to use this repository as todo lists for my projects or general stuff, for now at least I can say.
 
 TODOs
 -----
 
 ![Eisenhower Matrix](img/eisenhower-box.jpg)
 
-Upon assigning my daily tasks, I am planning to use the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method). I might not use the method as it is supposed to be but I roughly use this method in a way that I feel comfortable to work on. Instead of using the four quadrants I use four separate unordered lists.
+> "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent." -- Dwight D. Eisenhower
+
+Upon assigning my daily tasks, I decided to employ the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method). I might not use the method as it is supposed to be but I roughly use this method in a way that I feel comfortable to work on. Instead of using the four quadrants I use four separate unordered lists.
+
+<sub>For detailed information about the Eisenhower Method read:</sub>
+
+- <sub>http://jamesclear.com/eisenhower-box</sub>
 
 ### Eisenhower List
 
@@ -73,55 +79,41 @@ Upon assigning my daily tasks, I am planning to use the [Eisenhower Method](http
 
 ##### TODO-4: Not important, Not urgent
 
-- [ ] fix errors on existing jekyll projects
-- [ ] Find a decent version control software for design projects
-    - [Pixelapse](https://www.pixelapse.com/) looks compelling and its free tier offers unlimited public projects
+- [ ] Fix errors on existing jekyll projects
+- [ ] Find a decent version control software for design projects - [Pixelapse](https://www.pixelapse.com/) looks compelling and its free tier offers unlimited public projects
     - [According to VentureBeat](http://venturebeat.com/2014/06/05/for-designers-version-control-is-a-big-problem-but-github-is-close-to-solving-it/), GitHub announced on June 6 2014 that they had started supporting PSD viewing and diffing. See their [official blog post on June 6 2014](https://github.com/blog/1845-psd-viewing-diffing)
         - Test this above in my test repository
 - [ ] Install f.lux on iPhone
 - [ ] Read though http://www.codenewbie.org/
 - [ ] Look into [karan/joe](https://github.com/karan/joe), a gitignore file generator
 
-### TODO-lst-1: Creating simple Meteor apps for people
+### Eisenhower Box
 
-Recently I came up with the Meteor JavaScript framework and I am in an excitement.
+TODO: Test if a markdown table can replicate the real Eisenhower Box
 
-A few weeks back, when I was watching a Japanese Node.js advocate doing one of the Meteor official tutorials while live-coding at live.nicovideo.jp.
-I, for some reason, was inspired by what he does with this JavaScript framework with a catchy name – Meteor! How cool is that :D
-Not so long later than that day, I stared doing one of the tutorials at https://www.meteor.com/install and you know what happened? I instantly fell in love with it! It was a very fun experience for me to work on the tutorial. Seeing my app going on live on the Meteor's free testing server was a truly pleasant experience.
+<!--
+,Urgent,Not Urgent
+Important,foo,bar
+Not Important,baz,qux
+-->
 
-As of November 2015, I still do not know how to write HTML/CSS nor any programming language properly but this Meteor thing has really been captivating me.
-The official tutorial offers three simple todo apps, the first one which I did only requires HTML/CSS and JavaScript. The second one and the third one are also simple todo apps but you create apps combining AngularJS and React -- I will do these two once I find my spare time slot.
+|               | Urgent | Not Urgent |
+|---------------|--------|------------|
+| Important     | foo    | bar        |
+| Not Important | baz    | qux        |
 
-So now what? I am thinking about making a web application using Meteor.
+### TODO-list-1: Some stuff to sort out before 2016 comes
 
-Thankfully I came up with some chances which I may be able to apply this technology. Since I am an absolute beginner, obviously the learning curve is very high and not sure if this is manageable with my current skill levels. But within a month, by an end-of-year party with gym mates, I will try to approach the solution as hard as I can.
-
-Here are the two Meteor app ideas:
-
-1. **A simple bingo game app**
-    - this may be helpful to my gym mates at an end-of-year party
-    - this may not be necessary but I would like to challenge myself to create a simple bingo game app that can be used for the game to win a present
-    - details to be added
-2. **A topic generator app**
-    - this app is to help out participants of a language exchange meetup
-    - an app similar to TableTopics
-    - Mr Yuki Sakakibara often thinks it would be nice to have an app like this to save people at each table from not being able to find topics to talk about
-    - details to be added
-
-I am going to add detailed TODOs for each app soon.
-
-I am also going to list up my working plan for the projects, especially the bingo game app.
-
-### TODO-lst-2: Some stuff to sort out before 2016 comes
-
-- [ ] Do a clean install the OS X on the SSD, which I bought at the end of April (OMG, I am so lazy...)
-- [ ] Delete unused Mac apps
-    - I need to do clean install anyway but it would be nice to identify what is important and what is not prior to making the action
+- [ ] Do a clean install the OS X on the new SSD, which I bought at the end of April (OMG, I am so lazy...)
+- [ ] Delete used Mac apps
+    - I need to do clean install anyway but it would be nice to identify what is important and what is not prior to making the action:
+        - [ ] foo
+        - [ ] bar
+        - [ ] baz
 - [ ] Delete unused iPhone apps
     - My iPhone only has 4.5 GB ish of the remaining disk space, which is not a lot. Delete the ones I never use.
 
-### TODO-lst-3: What I want to learn in 2016
+### TODO-list-2: What I want to learn in 2016
 
 - Do MOOCs courses
     - I am not going to talk about how MOOC certificates are appealing to employers but better than possessing nothing
@@ -178,7 +170,7 @@ Here are some of the websites/blogs I visited when installing nvm:
 Notes
 -----
 
-### git commit
+### `git commit`
 
 #### The seven rules of a great git commit message
 
@@ -190,6 +182,36 @@ Notes
 6. Wrap the body at 72 characters
 7. Use the body to explain what and why vs. how
 
+```
+Summarize changes in around 50 characters or less
+
+More detailed explanatory text, if necessary. Wrap it to about 72
+characters or so. In some contexts, the first line is treated as the
+subject of the commit and the rest of the text as the body. The
+blank line separating the summary from the body is critical (unless
+you omit the body entirely); various tools like `log`, `shortlog`
+and `rebase` can get confused if you run the two together.
+
+Explain the problem that this commit is solving. Focus on why you
+are making this change as opposed to how (the code explains that).
+Are there side effects or other unintuitive consequenses of this
+change? Here's the place to explain them.
+
+Further paragraphs come after blank lines.
+
+ - Bullet points are okay, too
+
+ - Typically a hyphen or asterisk is used for the bullet, preceded
+   by a single space, with blank lines in between, but conventions
+   vary here
+
+If you use an issue tracker, put references to them at the bottom,
+like this:
+
+Resolves: #123
+See also: #456, #789
+```
+
 See the blog post: [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/) for details.
 
 Other readings relating to Git commit messaging:
@@ -198,18 +220,81 @@ Other readings relating to Git commit messaging:
 - [Commit messages - Good practices -- SlideShare](http://www.slideshare.net/TarinGamberini/commit-messages-goodpractices)
 - [A bad commit message example](http://stopwritingramblingcommitmessages.com/)
 
-### git remote
+### `git remote`
 
 - [Renaming a remote](https://help.github.com/articles/renaming-a-remote/)
 - [Renaming a repository](https://help.github.com/articles/renaming-a-repository/)
 
-### Create a remote GitHub repository from command line
+### Understanding the GitHub Flow
 
-$ git config --global github.user GITHUB_USERNAME
+> GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
+
+See: https://guides.github.com/introduction/flow/index.html
+
+### Work around how to combine one repository to another
+
+`$ git config --global github.user GITHUB_USERNAME`
+
+- [How do I work with a git repository within another repository?](http://stackoverflow.com/questions/1811730/how-do-i-work-with-a-git-repository-within-another-repository)
+- [7.11 Git Tools - Submodules](http://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
+### GitHub Flavored Markdown (GFM)
+
+- [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+
+Jekyll and other static site generators
+---------------------------------------
+
+- [Sites (from Jekyll GitHub Wiki)](https://github.com/jekyll/jekyll/wiki/sites) -- a list of sites powered by Jekyll
+
+LICENSES information
+--------------------
+
+> Get familiarised with Licenses
+
+For code:
+
+- MIT License
+- Apache License
+- GPL (V2 or V3)
+- more
+
+Non-code:
+
+- Creative Commons
+
+References:
+
+- [choosealicense.com](http://choosealicense.com/) -- this is created by GitHub
+- [github/choosealicense.com](https://github.com/github/choosealicense.com) -- the GitHub repository of the website
+
+Vim
+---
+
+### tpope/vim-surround
+
+```
+Initial state   =>  "Hello World!"
+cs"'            =>  'Hello World!'
+cs'<q>          =>  <q>Hello World!</q>
+cst"            =>  "Hello World!"
+ds"             =>  Hello World!
+ysiw]           =>  [Hello] World!
+cs]{            =>  { Hello } World!
+yssb or yss)    =>  ({ Hello } World!)
+ds{ds)          =>  Hello World!
+ysiw<em>        =>  <em>Hello</em> World!
+
+V-LINE and S>p class="important"
+
+<p class="important">
+  <em>Hello</em> World!
+</p>
+```
 
 Machine Learning
 ----------------
 
-- [Stanford University - Machine Learning by Andrew Ngi](https://www.coursera.org/learn/machine-learning)
+- [Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
