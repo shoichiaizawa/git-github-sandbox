@@ -1,7 +1,7 @@
 git-github-sandbox
 ==================
 
-A repository does not do anything but solely exists for me to be able to play around with git commands and see how all my actions can affect both local and remote repositories.
+A repository does not contain any programming code but solely exists for me to be able to play around with git commands and see how all my actions can affect both local and remote repositories.
 
 I am also planning to use this repository as todo lists for my projects or general stuff, for now at least I can say.
 
@@ -33,7 +33,7 @@ Upon assigning my daily tasks, I decided to employ the [Eisenhower Method](https
     - [angular-meteor.com](http://angular-meteor.com/)
     - and more
 - [ ] Install some basic npm packages globally for tweaking
-    - Install global npm packages; for example:
+    - Install must-have global npm packages; for example:
         - jslint, jshint or eshint; get the best one
         - gulp
         - grunt-cli
@@ -70,6 +70,7 @@ Upon assigning my daily tasks, I decided to employ the [Eisenhower Method](https
     - Read the following pages:
         - [Create a Github Repo from the Command Line](https://viget.com/extend/create-a-github-repo-from-the-command-line)
         - [Stack Overflow: Is it possible to create a remote repo on GitHub from the CLI without ssh?](http://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-ssh)
+- Sort emails inside Mailbox.app
 
 ##### TODO-3: Not important, Urgent
 
@@ -99,12 +100,13 @@ Not Important,baz,qux
 
 |               | Urgent | Not Urgent |
 |---------------|--------|------------|
-| Important     | foo    | bar        |
-| Not Important | baz    | qux        |
+| **Important** | <ul><li>[ ] Reply emails</li><li>[ ] Sort contracts</li></ul> | <ul><li>Do meteor tutorials</li><li>Install must-have global npm packages</li></ul>        |
+| **Not Important** | baz    | qux        |
 
 ### TODO-list-1: Some stuff to sort out before 2016 comes
 
 - [ ] Do a clean install the OS X on the new SSD, which I bought at the end of April (OMG, I am so lazy...)
+    - [ ] Do the OS X provisioning using Ansible
 - [ ] Delete used Mac apps
     - I need to do clean install anyway but it would be nice to identify what is important and what is not prior to making the action:
         - [ ] foo
