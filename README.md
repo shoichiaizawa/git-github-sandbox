@@ -235,14 +235,23 @@ See: https://guides.github.com/introduction/flow/index.html
 
 ### Work around how to combine one repository to another
 
-`$ git config --global github.user GITHUB_USERNAME`
+#### `submodule` vs `subtree`
 
+- [How do you merge two git repositories?](http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories)
 - [How do I work with a git repository within another repository?](http://stackoverflow.com/questions/1811730/how-do-i-work-with-a-git-repository-within-another-repository)
+- [Detach subdirectory into separate Git repository](http://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository)
 - [7.11 Git Tools - Submodules](http://git-scm.com/book/en/v2/Git-Tools-Submodules)
+- [6.7 Git Tools - Subtree Merging](http://git-scm.com/book/en/v1/Git-Tools-Subtree-Merging)
+- [Subtree merging and you](http://nuclearsquid.com/writings/subtree-merging-and-you/)
+- [About Git subtree merges](https://help.github.com/articles/about-git-subtree-merges/)
 
 ### GitHub Flavored Markdown (GFM)
 
 - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
+
+### `git config`
+
+`$ git config --global github.user GITHUB_USERNAME`
 
 Jekyll and other static site generators
 ---------------------------------------
