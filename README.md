@@ -237,13 +237,15 @@ See: https://guides.github.com/introduction/flow/index.html
 
 #### `submodule` vs `subtree`
 
-- [How do you merge two git repositories?](http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories)
-- [How do I work with a git repository within another repository?](http://stackoverflow.com/questions/1811730/how-do-i-work-with-a-git-repository-within-another-repository)
-- [Detach subdirectory into separate Git repository](http://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository)
+- [Stack Overflow: How do you merge two git repositories?](http://stackoverflow.com/questions/1425892/how-do-you-merge-two-git-repositories)
+- [Stack Overflow: How do I work with a git repository within another repository?](http://stackoverflow.com/questions/1811730/how-do-i-work-with-a-git-repository-within-another-repository)
+- [Stack Overflow: Detach subdirectory into separate Git repository](http://stackoverflow.com/questions/359424/detach-subdirectory-into-separate-git-repository)
 - [7.11 Git Tools - Submodules](http://git-scm.com/book/en/v2/Git-Tools-Submodules)
 - [6.7 Git Tools - Subtree Merging](http://git-scm.com/book/en/v1/Git-Tools-Subtree-Merging)
 - [Subtree merging and you](http://nuclearsquid.com/writings/subtree-merging-and-you/)
 - [About Git subtree merges](https://help.github.com/articles/about-git-subtree-merges/)
+- [Alternatives To Git Submodule: Git Subtree](http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)
+- [The power of Git subtree](https://developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/)
 
 ### GitHub Flavored Markdown (GFM)
 
