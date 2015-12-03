@@ -1,18 +1,28 @@
 git-github-sandbox
 ==================
 
-A repository does not contain any programming code but solely exists for me to be able to play around with git commands and see how all my actions can affect both local and remote repositories.
+This repository does not contain any programming code,
+but solely exists for me to be able to play around with git commands
+and see how all my actions can affect both local and remote repositories.
 
-I am also planning to use this repository as todo lists for my projects or general stuff, for now at least I can say.
+I am also planning to use this repository as todo lists
+for my projects or general stuff, for now at least I can say.
 
 TODOs
 -----
 
 ![Eisenhower Matrix](img/eisenhower-box.jpg)
 
-> "I have two kinds of problems, the urgent and the important. The urgent are not important, and the important are never urgent." -- Dwight D. Eisenhower
+> "I have two kinds of problems, the urgent and the important.
+> The urgent are not important, and the important are never urgent."
+> -- Dwight D. Eisenhower
 
-Upon assigning my daily tasks, I decided to employ the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method). I might not use the method as it is supposed to be but I roughly use this method in a way that I feel comfortable to work on. Instead of using the four quadrants I use four separate unordered lists.
+I decided to employ the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method)
+to organise my tasks.
+I might not use the method as it is supposed to be
+but I roughly use this method in a way that I feel comfortable to work on.
+
+Instead of using the four quadrants I use four separate unordered lists.
 
 <sub>For detailed information about the Eisenhower Method read:</sub>
 
@@ -40,9 +50,13 @@ Upon assigning my daily tasks, I decided to employ the [Eisenhower Method](https
         - coffee-script
         - bower
         - browserify
+        - nodemon
         - https://github.com/suan/vim-instant-markdown
         - etc
-    - I had some npm packages installed with the Homebrew version of Node.js -- I deleted everything already TODO: summarise how how to delete Node.js and npm from the system; these were the global packages installed previously:
+    - I had some npm packages installed with the Homebrew version of Node.js
+      -- I deleted everything already TODO: summarise how how to delete Node.js
+      and npm from the system;
+      these were the global packages installed previously:
 
         ```
         # Previously I installed these packages
@@ -60,12 +74,16 @@ Upon assigning my daily tasks, I decided to employ the [Eisenhower Method](https
         ```
 - Install Vim plug-ins or tweak settings:
     - Markdown related
-        - Look into this and find out what this can do: https://github.com/plasticboy/vim-markdown
+        - Look into this and find out what this can do:
+          https://github.com/plasticboy/vim-markdown
         - And more
     - completion
     - syntax highlighter
-        - JavaScript: [JSLint](http://www.jslint.com/) vs [JSHint](http://jshint.com/) vs [ESLint](http://eslint.org/)
-- [ ] Find out how to create a remote repository on GitHub from the local terminal
+        - JavaScript: [JSLint](http://www.jslint.com/)
+          vs [JSHint](http://jshint.com/)
+          vs [ESLint](http://eslint.org/)
+- [ ] Find out how to create a remote repository on GitHub
+      from the local terminal
     - This can be done using the [GitHub APIs](https://developer.github.com/v3/)
     - Read the following pages:
         - [Create a Github Repo from the Command Line](https://viget.com/extend/create-a-github-repo-from-the-command-line)
@@ -81,12 +99,18 @@ Upon assigning my daily tasks, I decided to employ the [Eisenhower Method](https
 ##### TODO-4: Not important, Not urgent
 
 - [ ] Fix errors on existing jekyll projects
-- [ ] Find a decent version control software for design projects - [Pixelapse](https://www.pixelapse.com/) looks compelling and its free tier offers unlimited public projects
-    - [According to VentureBeat](http://venturebeat.com/2014/06/05/for-designers-version-control-is-a-big-problem-but-github-is-close-to-solving-it/), GitHub announced on June 6 2014 that they had started supporting PSD viewing and diffing. See their [official blog post on June 6 2014](https://github.com/blog/1845-psd-viewing-diffing)
+- [ ] Find a decent version control software for design projects
+      -- [Pixelapse](https://www.pixelapse.com/)
+      looks compelling and its free tier offers unlimited public projects
+    - [According to VentureBeat](http://venturebeat.com/2014/06/05/for-designers-version-control-is-a-big-problem-but-github-is-close-to-solving-it/),
+      GitHub announced on June 6 2014 that they had started
+      supporting PSD viewing and diffing.
+      See their [official blog post on June 6 2014](https://github.com/blog/1845-psd-viewing-diffing).
         - Test this above in my test repository
 - [ ] Install f.lux on iPhone
 - [ ] Read though http://www.codenewbie.org/
-- [ ] Look into [karan/joe](https://github.com/karan/joe), a gitignore file generator
+- [ ] Look into [karan/joe](https://github.com/karan/joe),
+      a gitignore file generator
 
 ### Eisenhower Box
 
@@ -105,30 +129,37 @@ Not Important,baz,qux
 
 ### TODO-list-1: Some stuff to sort out before 2016 comes
 
-- [ ] Do a clean install the OS X on the new SSD, which I bought at the end of April (OMG, I am so lazy...)
+- [ ] Do a clean install the OS X on the new SSD,
+      which I bought at the end of April (OMG, I am so lazy...)
     - [ ] Do the OS X provisioning using Ansible
 - [ ] Delete used Mac apps
-    - I need to do clean install anyway but it would be nice to identify what is important and what is not prior to making the action:
+    - I need to do clean install anyway but it would be nice
+      to identify what is important and what is not prior to making the action:
         - [ ] foo
         - [ ] bar
         - [ ] baz
 - [ ] Delete unused iPhone apps
-    - My iPhone only has 4.5 GB ish of the remaining disk space, which is not a lot. Delete the ones I never use.
+    - My iPhone only has 4.5 GB ish of the remaining disk space,
+      which is not a lot. Delete the ones I never use.
 
 ### TODO-list-2: What I want to learn in 2016
 
 - Do MOOCs courses
-    - I am not going to talk about how MOOC certificates are appealing to employers but better than possessing nothing
-        - [open-source-society/computer-science](https://github.com/open-source-society/computer-science) offers a range of Computer Science courses from various MOOC providers
+    - I am not going to talk about how MOOC certificates are appealing
+      to employers but better than possessing nothing
+        - [open-source-society/computer-science](https://github.com/open-source-society/computer-science)
+          offers a range of Computer Science courses from various MOOC providers
         - [Replicating a BSc in Computer Science through MOOCs](http://gregorulm.com/replicating-a-bsc-in-computer-science-through-moocs/)
             - [gregorulm/mooc](https://github.com/gregorulm/mooc)
-        - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) -- starts on January 13, 2016
-            - I abandoned the last session half way though because I chose to stay in the audit mode so make sure I pay for the course for a verified track, stay motivated and complete the course
-    - bar
-    - baz
+        - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
+          -- starts on **January 13, 2016**
+            - I abandoned the last session half way though
+              because I chose to stay in the audit mode
+              so make sure I pay for the course for a verified track,
+              stay motivated and complete the course
 - Lynda courses
-    - The thing is I am a premium annual member and have not studied anything on Lynda.com for a few months... bammer!
-- baz
+    - The thing is I am a premium annual member and have not studied anything
+      on Lynda.com for a few months... bammer!
 
 DONEs
 ---
@@ -137,8 +168,18 @@ DONEs
 
 ##### Summary
 
-I was planning to work on the existing jekyll generated blog powered by jekyll-bootstrap and host it at username.github.io but in the end I abandoned it. I changed the name of the repository and created another repository named username.github.io.
-There is no content at this time. So my next goal about static site blogging is to wrote blog post in a regular basis. I was recommended that I should still to a regular publishing plan. Whether publishing once a day, once in three days or once in a week, it is important to keep on doing it.
+I was planning to work on the existing jekyll generated blog powered
+by jekyll-bootstrap and host it at username.github.io
+but in the end I abandoned it.
+I changed the name of the repository
+and created another repository named username.github.io.
+
+There is no content at this time.
+So my next goal about static site blogging is
+to wrote blog post in a regular basis.
+I was recommended that I should still to a regular publishing plan.
+Whether publishing once a day, once in three days or once in a week,
+it is important to keep on doing it.
 
 - [x] Air the jekyll blog, with or without a unique domain
 
@@ -151,7 +192,13 @@ Not important but I wanted to do
 
 ##### Summary
 
-As planned I did install Node.js and npm via nvm. Spending much time on reading about how to install nvm, I came across some people insisting that [nvm should not be installed via Homebrew at all](https://github.com/creationix/nvm/issues/469) (and even saying nvm installation with Homebrew is an unofficial method; thus one should install nvm only the official way) but I used Homebrew to install it.
+As planned I did install Node.js and npm via nvm.
+Spending much time on reading about how to install nvm,
+I came across some people insisting that
+[nvm should not be installed via Homebrew at all](https://github.com/creationix/nvm/issues/469)
+(and even saying nvm installation with Homebrew is an unofficial method;
+thus one should install nvm only the official way)
+but I used Homebrew to install it.
 
 Here are some of the websites/blogs I visited when installing nvm:
 
@@ -162,12 +209,15 @@ Here are some of the websites/blogs I visited when installing nvm:
 ##### Original TODOs
 
 - [x] Install Node.js via brew, nvm, n, nodebrew, or others
-    - I would probably go with nvm as it has the most stars on GitHub among other Node.js version managers. Also nvm seems the most active on GitHub
+    - I would probably go with nvm as it has the most stars on GitHub
+      among other Node.js version managers.
+      Also nvm seems the most active on GitHub
     - Numbers of stars for each project (as of 2015-11-12):
         - [creationix/nvm](https://github.com/creationix/nvm) -- 9168 stars
         - [tj/n](https://github.com/tj/n) -- 3252 stars
         - [hokaccha/nodebrew](https://github.com/hokaccha/nodebrew) -- 459 stars
-    - Install npm -- npm is automatically comes with a Node.js installation unless you exclude it
+    - Install npm -- npm is automatically comes
+      with a Node.js installation unless you exclude it
 
 Notes
 -----
@@ -214,7 +264,9 @@ Resolves: #123
 See also: #456, #789
 ```
 
-See the blog post: [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/) for details.
+See the blog post:
+[How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+for details.
 
 Other readings relating to Git commit messaging:
 
@@ -229,7 +281,9 @@ Other readings relating to Git commit messaging:
 
 ### Understanding the GitHub Flow
 
-> GitHub Flow is a lightweight, branch-based workflow that supports teams and projects where deployments are made regularly. This guide explains how and why GitHub Flow works.
+> GitHub Flow is a lightweight, branch-based workflow that supports teams
+> and projects where deployments are made regularly.
+> This guide explains how and why GitHub Flow works.
 
 See: https://guides.github.com/introduction/flow/index.html
 
@@ -251,14 +305,20 @@ See: https://guides.github.com/introduction/flow/index.html
 
 - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
 
-### `git config`
+### Create a remote repository on GitHub from the local terminal
+
+TODO: I have not tested this tweak yet.
+
+- [Create a Github Repo from the Command Line](https://viget.com/extend/create-a-github-repo-from-the-command-line)
+- [Stack Overflow: Is it possible to create a remote repo on GitHub from the CLI without ssh?](http://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-ssh)
 
 `$ git config --global github.user GITHUB_USERNAME`
 
 Jekyll and other static site generators
 ---------------------------------------
 
-- [Sites (from Jekyll GitHub Wiki)](https://github.com/jekyll/jekyll/wiki/sites) -- a list of sites powered by Jekyll
+- [Jekyll powered sites (from Jekyll GitHub Wiki)](https://github.com/jekyll/jekyll/wiki/sites)
+  -- a list of sites powered by Jekyll
 
 LICENSES information
 --------------------
@@ -275,16 +335,21 @@ For code:
 Non-code:
 
 - Creative Commons
+- etc
 
 References:
 
-- [choosealicense.com](http://choosealicense.com/) -- this is created by GitHub
-- [github/choosealicense.com](https://github.com/github/choosealicense.com) -- the GitHub repository of the website
+- [choosealicense.com](http://choosealicense.com/)
+  -- this is created by GitHub, thanks to Jessica Lord for sharing this!
+- [github/choosealicense.com](https://github.com/github/choosealicense.com)
+  -- the GitHub repository of the website
 
 Vim
 ---
 
 ### tpope/vim-surround
+
+Example usage presented in README of `tpope/vim-surround`
 
 ```
 Initial state   =>  "Hello World!"
@@ -309,5 +374,6 @@ Machine Learning
 ----------------
 
 - [Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+  - Do this for the session beginning on 30th November! Enroll by 5th December!
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
