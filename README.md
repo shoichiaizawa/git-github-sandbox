@@ -132,10 +132,17 @@ Not Important,baz,qux
 - [ ] Do a clean install the OS X on the new SSD,
       which I bought at the end of April (OMG, I am so lazy...)
     - [ ] Do the OS X provisioning using Ansible
-- [ ] Delete used Mac apps
+        - My ansible playbook can be executed with `-C`/`--check` option, a dry-run command
+        - Enhance the settings
+- [ ] Delete unused Mac apps
     - I need to do clean install anyway but it would be nice
       to identify what is important and what is not prior to making the action:
-        - [ ] foo
+        - [ ] Make sure all the basics stuff is backed up
+            - [ ] dotfiles
+            - [ ] Contacts
+            - [ ] Broseer Bookmarks
+            - [ ] Existing emails, just in case
+            - [ ] Network info
         - [ ] bar
         - [ ] baz
 - [ ] Delete unused iPhone apps
@@ -144,25 +151,37 @@ Not Important,baz,qux
 
 ### TODO-list-2: What I want to learn in 2016
 
+#### ### Learn, learn, learn
+
 - Do MOOCs courses
-    - I am not going to talk about how MOOC certificates are appealing
-      to employers but better than possessing nothing
-        - [open-source-society/computer-science](https://github.com/open-source-society/computer-science)
-          offers a range of Computer Science courses from various MOOC providers
-        - [Replicating a BSc in Computer Science through MOOCs](http://gregorulm.com/replicating-a-bsc-in-computer-science-through-moocs/)
-            - [gregorulm/mooc](https://github.com/gregorulm/mooc)
+    - Coursera:
+        - [Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+    - edX:
         - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
           -- starts on **January 13, 2016**
             - I abandoned the last session half way though
               because I chose to stay in the audit mode
               so make sure I pay for the course for a verified track,
               stay motivated and complete the course
+    - Other info:
+        - [open-source-society/computer-science](https://github.com/open-source-society/computer-science)
+          suggests a curriculum with a range of Computer Science courses from various MOOC providers
+        - [Replicating a BSc in Computer Science through MOOCs](http://gregorulm.com/replicating-a-bsc-in-computer-science-through-moocs/)
+            - [gregorulm/mooc](https://github.com/gregorulm/mooc)
 - Lynda courses
     - The thing is I am a premium annual member and have not studied anything
       on Lynda.com for a few months... bammer!
+- Many other paid courses
+    - I paid for quite many courses, make sure learning from those courses before the technologies they teaching becomes obsolete. Here are some courses I paid for:
+        - Udemy courses
+        - Makers Cabin
 
 DONEs
----
+-----
+
+### 2015-12-05
+
+- Enroll Coursera Machine Learning course
 
 ### 2015-11-13
 
@@ -374,6 +393,6 @@ Machine Learning
 ----------------
 
 - [Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-  - Do this for the session beginning on 30th November! Enroll by 5th December!
+  - Do this for the session beginning on 30th November! ~~Enroll by 5th December!~~ -> Paid on 5th December
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
