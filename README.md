@@ -129,29 +129,31 @@ Not Important,baz,qux
 
 ### TODO-list-1: Some stuff to sort out before 2016 comes
 
-- [ ] Do a clean install the OS X on the new SSD,
-      which I bought at the end of April (OMG, I am so lazy...)
-    - [ ] Do the OS X provisioning using Ansible
-        - My ansible playbook can be executed with `-C`/`--check` option, a dry-run command
-        - Enhance the settings
 - [ ] Delete unused Mac apps
     - I need to do clean install anyway but it would be nice
       to identify what is important and what is not prior to making the action:
         - [ ] Make sure all the basics stuff is backed up
             - [ ] dotfiles
             - [ ] Contacts
-            - [ ] Broseer Bookmarks
+            - [ ] Browser Bookmarks
             - [ ] Existing emails, just in case
             - [ ] Network info
-        - [ ] bar
-        - [ ] baz
+            - [ ] BetterTouchTool settings
 - [ ] Delete unused iPhone apps
     - My iPhone only has 4.5 GB ish of the remaining disk space,
       which is not a lot. Delete the ones I never use.
 
 ### TODO-list-2: What I want to learn in 2016
 
-#### ### Learn, learn, learn
+#### Mac OS X refreshment
+
+- [ ] Do a clean install the OS X on the new SSD
+    - Do this as soon as I am done with Coursera Machine Learning Course
+    - [ ] Do the OS X provisioning using Ansible
+        - My ansible playbook can be executed with `-C`/`--check` option, a dry-run command
+        - Enhance the settings
+
+#### Learn, learn, learn
 
 - Do MOOCs courses
     - Coursera:
