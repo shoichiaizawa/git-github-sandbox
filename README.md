@@ -73,12 +73,11 @@ Instead of using the four quadrants I use four separate unordered lists.
         └── ungit@0.9.3
         ```
 - Install Vim plug-ins or tweak settings:
-    - Markdown related
-        - Look into this and find out what this can do:
-          https://github.com/plasticboy/vim-markdown
+    - Markdown related:
+        - Find out how to do LaTeX writing compatible for GitHub Flavoured Markdown
         - And more
     - completion
-    - syntax highlighter
+    - syntax checkers
         - JavaScript: [JSLint](http://www.jslint.com/)
           vs [JSHint](http://jshint.com/)
           vs [ESLint](http://eslint.org/)
@@ -109,7 +108,7 @@ Instead of using the four quadrants I use four separate unordered lists.
         - Test this above in my test repository
 - [ ] Install f.lux on iPhone
 - [ ] Read though http://www.codenewbie.org/
-- [ ] Look into [karan/joe](https://github.com/karan/joe),
+- \[ ] Look into [karan/joe](https://github.com/karan/joe),
       a gitignore file generator
 
 ### Eisenhower Box
@@ -143,7 +142,7 @@ Not Important,baz,qux
     - My iPhone only has 4.5 GB ish of the remaining disk space,
       which is not a lot. Delete the ones I never use.
 
-### TODO-list-2: What I want to learn in 2016
+### TODO-list-2: What I want to do in 2016
 
 #### Mac OS X refreshment
 
@@ -157,7 +156,6 @@ Not Important,baz,qux
 
 - Do MOOCs courses
     - Coursera:
-        - [Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
     - edX:
         - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
           -- starts on **January 13, 2016**
@@ -181,9 +179,13 @@ Not Important,baz,qux
 DONEs
 -----
 
+### 2015-12-09
+
+- Install [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
+
 ### 2015-12-05
 
-- Enroll Coursera Machine Learning course
+- Enroll [Coursera Machine Learning course](https://www.coursera.org/learn/machine-learning)
 
 ### 2015-11-13
 
