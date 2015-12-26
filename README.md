@@ -8,8 +8,10 @@ and see how all my actions can affect both local and remote repositories.
 I am also planning to use this repository as todo lists
 for my projects or general stuff, for now at least I can say.
 
+--------------------------------------------------------------------------------
+
 TODOs
------
+=====
 
 ![Eisenhower Matrix](img/eisenhower-box.jpg)
 
@@ -28,14 +30,15 @@ Instead of using the four quadrants I use four separate unordered lists.
 
 - <sub>http://jamesclear.com/eisenhower-box</sub>
 
-### Eisenhower List
+Eisenhower List
+---------------
 
-##### TODO-1: Important, Urgent
+### TODO-1: Important, Urgent
 
 - [ ] Reply emails
 - [ ] Sort contracts
 
-##### TODO-2: Important, Not urgent
+### TODO-2: Important, Not urgent
 
 - Do meteor tutorials as many as possible:
     - [Official Todo Apps](https://www.meteor.com/learn)
@@ -89,13 +92,13 @@ Instead of using the four quadrants I use four separate unordered lists.
         - [Stack Overflow: Is it possible to create a remote repo on GitHub from the CLI without ssh?](http://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-ssh)
 - Sort emails inside Mailbox.app
 
-##### TODO-3: Not important, Urgent
+### TODO-3: Not important, Urgent
 
 - [ ] foo
 - [ ] bar
 - [ ] baz
 
-##### TODO-4: Not important, Not urgent
+### TODO-4: Not important, Not urgent
 
 - [ ] Fix errors on existing jekyll projects
 - [ ] Find a decent version control software for design projects
@@ -111,7 +114,8 @@ Instead of using the four quadrants I use four separate unordered lists.
 - \[ ] Look into [karan/joe](https://github.com/karan/joe),
       a gitignore file generator
 
-### Eisenhower Box
+Eisenhower Box
+--------------
 
 TODO: Test if a markdown table can replicate the real Eisenhower Box
 
@@ -126,7 +130,8 @@ Not Important,baz,qux
 | **Important** | <ul><li>[ ] Reply emails</li><li>[ ] Sort contracts</li></ul> | <ul><li>Do meteor tutorials</li><li>Install must-have global npm packages</li></ul>        |
 | **Not Important** | baz    | qux        |
 
-### TODO-list-1: Some stuff to sort out before 2016 comes
+TODO-list-1: Some stuff to sort out before 2016 comes
+-----------------------------------------------------
 
 - [ ] Delete unused Mac apps
     - I need to do clean install anyway but it would be nice
@@ -142,9 +147,10 @@ Not Important,baz,qux
     - My iPhone only has 4.5 GB ish of the remaining disk space,
       which is not a lot. Delete the ones I never use.
 
-### TODO-list-2: What I want to do in 2016
+TODO-list-2: What I want to do in 2016
+--------------------------------------
 
-#### Mac OS X refreshment
+### Mac OS X refreshment
 
 - [ ] Do a clean install the OS X on the new SSD
     - Do this as soon as I am done with Coursera Machine Learning Course
@@ -152,7 +158,7 @@ Not Important,baz,qux
         - My ansible playbook can be executed with `-C`/`--check` option, a dry-run command
         - Enhance the settings
 
-#### Learn, learn, learn
+### Learn, learn, learn
 
 - Do MOOCs courses
     - Coursera:
@@ -242,8 +248,13 @@ Here are some of the websites/blogs I visited when installing nvm:
     - Install npm -- npm is automatically comes
       with a Node.js installation unless you exclude it
 
+--------------------------------------------------------------------------------
+
 Notes
------
+=====
+
+Git
+---
 
 ### `git commit`
 
