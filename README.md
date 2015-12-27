@@ -102,16 +102,10 @@ Eisenhower List
 
 - [ ] Fix errors on existing jekyll projects
 - [ ] Find a decent version control software for design projects
-      -- [Pixelapse](https://www.pixelapse.com/)
-      looks compelling and its free tier offers unlimited public projects
-    - [According to VentureBeat](http://venturebeat.com/2014/06/05/for-designers-version-control-is-a-big-problem-but-github-is-close-to-solving-it/),
-      GitHub announced on June 6 2014 that they had started
-      supporting PSD viewing and diffing.
-      See their [official blog post on June 6 2014](https://github.com/blog/1845-psd-viewing-diffing).
-        - Test this above in my test repository
+- [ ] Test [PSD viewing and diffing](https://github.com/blog/1845-psd-viewing-diffing) in this test repository
 - [ ] Install f.lux on iPhone
 - [ ] Read though http://www.codenewbie.org/
-- \[ ] Look into [karan/joe](https://github.com/karan/joe),
+- [ ] Look into [karan/joe](https://github.com/karan/joe),
       a gitignore file generator
 
 Eisenhower Box
@@ -134,18 +128,16 @@ TODO-list-1: Some stuff to sort out before 2016 comes
 -----------------------------------------------------
 
 - [ ] Delete unused Mac apps
-    - I need to do clean install anyway but it would be nice
-      to identify what is important and what is not prior to making the action:
-        - [ ] Make sure all the basics stuff is backed up
-            - [ ] dotfiles
-            - [ ] Contacts
-            - [ ] Browser Bookmarks
-            - [ ] Existing emails, just in case
-            - [ ] Network info
-            - [ ] BetterTouchTool settings
+    - [ ] Make sure all the basics stuff is backed up
+        - [ ] dotfiles
+        - [ ] Contacts
+        - [ ] Browser Bookmarks
+        - [ ] Existing emails, just in case
+        - [ ] Network info
+        - [ ] BetterTouchTool settings
+        - [ ] keychain Access items
+        - [ ] Dash backup
 - [ ] Delete unused iPhone apps
-    - My iPhone only has 4.5 GB ish of the remaining disk space,
-      which is not a lot. Delete the ones I never use.
 
 TODO-list-2: What I want to do in 2016
 --------------------------------------
@@ -165,33 +157,36 @@ TODO-list-2: What I want to do in 2016
     - edX:
         - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
           -- starts on **January 13, 2016**
-            - I abandoned the last session half way though
-              because I chose to stay in the audit mode
-              so make sure I pay for the course for a verified track,
-              stay motivated and complete the course
     - Other info:
         - [open-source-society/computer-science](https://github.com/open-source-society/computer-science)
           suggests a curriculum with a range of Computer Science courses from various MOOC providers
         - [Replicating a BSc in Computer Science through MOOCs](http://gregorulm.com/replicating-a-bsc-in-computer-science-through-moocs/)
             - [gregorulm/mooc](https://github.com/gregorulm/mooc)
 - Lynda courses
-    - The thing is I am a premium annual member and have not studied anything
-      on Lynda.com for a few months... bammer!
 - Many other paid courses
-    - I paid for quite many courses, make sure learning from those courses before the technologies they teaching becomes obsolete. Here are some courses I paid for:
-        - Udemy courses
-        - Makers Cabin
+    - Udemy courses
+    - Makers Cabin
 
 DONEs
 -----
 
 ### 2015-12-09
 
-- Install [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
+- [x] Install [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown)
 
 ### 2015-12-05
 
-- Enroll [Coursera Machine Learning course](https://www.coursera.org/learn/machine-learning)
+- [x] Enroll [Coursera Machine Learning course](https://www.coursera.org/learn/machine-learning)
+
+### 2015-11-15
+
+- [x] Find a decent version control software for design projects
+      -- [Pixelapse](https://www.pixelapse.com/)
+      looks compelling and its free tier offers unlimited public projects
+    - [According to VentureBeat](http://venturebeat.com/2014/06/05/for-designers-version-control-is-a-big-problem-but-github-is-close-to-solving-it/),
+      GitHub announced on June 6 2014 that they had started
+      supporting PSD viewing and diffing.
+      See their [official blog post on June 6 2014](https://github.com/blog/1845-psd-viewing-diffing).
 
 ### 2015-11-13
 
