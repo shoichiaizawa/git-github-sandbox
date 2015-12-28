@@ -101,7 +101,6 @@ Eisenhower List
 ### TODO-4: Not important, Not urgent
 
 - [ ] Fix errors on existing jekyll projects
-- [ ] Find a decent version control software for design projects
 - [ ] Test [PSD viewing and diffing](https://github.com/blog/1845-psd-viewing-diffing) in this test repository
 - [ ] Install f.lux on iPhone
 - [ ] Read though http://www.codenewbie.org/
@@ -112,12 +111,6 @@ Eisenhower Box
 --------------
 
 TODO: Test if a markdown table can replicate the real Eisenhower Box
-
-<!--
-,Urgent,Not Urgent
-Important,foo,bar
-Not Important,baz,qux
--->
 
 |               | Urgent | Not Urgent |
 |---------------|--------|------------|
@@ -248,8 +241,8 @@ Here are some of the websites/blogs I visited when installing nvm:
 Notes
 =====
 
-Git
----
+Git and GitHub
+--------------
 
 ### `git commit`
 
@@ -336,8 +329,6 @@ See: https://guides.github.com/introduction/flow/index.html
 
 ### Create a remote repository on GitHub from the local terminal
 
-TODO: I have not tested this tweak yet.
-
 - [Create a Github Repo from the Command Line](https://viget.com/extend/create-a-github-repo-from-the-command-line)
 - [Stack Overflow: Is it possible to create a remote repo on GitHub from the CLI without ssh?](http://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-ssh)
 
@@ -403,6 +394,7 @@ Machine Learning
 ----------------
 
 - [Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-  - Do this for the session beginning on 30th November! ~~Enroll by 5th December!~~ -> Paid on 5th December
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
+- [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
+- [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
 
