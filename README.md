@@ -35,7 +35,6 @@ Eisenhower List
 
 ### TODO-1: Important, Urgent
 
-- [ ] Reply emails
 - [ ] Sort contracts
 
 ### TODO-2: Important, Not urgent
@@ -44,7 +43,6 @@ Eisenhower List
     - [Official Todo Apps](https://www.meteor.com/learn)
     - [scotch.io](https://scotch.io/?s=meteor)
     - [angular-meteor.com](http://angular-meteor.com/)
-    - and more
 - [ ] Install some basic npm packages globally for tweaking
     - Install must-have global npm packages; for example:
         - jslint, jshint or eshint; get the best one
@@ -78,7 +76,6 @@ Eisenhower List
 - Install Vim plug-ins or tweak settings:
     - Markdown related:
         - Find out how to do LaTeX writing compatible for GitHub Flavoured Markdown
-        - And more
     - completion
     - syntax checkers
         - JavaScript: [JSLint](http://www.jslint.com/)
@@ -93,10 +90,6 @@ Eisenhower List
 - Sort emails inside Mailbox.app
 
 ### TODO-3: Not important, Urgent
-
-- [ ] foo
-- [ ] bar
-- [ ] baz
 
 ### TODO-4: Not important, Not urgent
 
@@ -397,4 +390,4 @@ Machine Learning
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
 - [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
-
+- [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) -- Continually updated data science Python notebooks: Spark, Hadoop MapReduce, HDFS, Kaggle, deep learning (TensorFlow, Theano, Caffe), scikit-learn, matplotlib, pandas, NumPy, SciPy, AWS, and various command lines. https://bit.ly/data-notes
