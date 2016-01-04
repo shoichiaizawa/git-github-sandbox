@@ -105,15 +105,73 @@ Eisenhower Box
 
 TODO: Test if a markdown table can replicate the real Eisenhower Box
 
-|               | Urgent | Not Urgent |
-|---------------|--------|------------|
-| **Important** | <ul><li>[ ] Reply emails</li><li>[ ] Sort contracts</li></ul> | <ul><li>Do meteor tutorials</li><li>Install must-have global npm packages</li></ul>        |
-| **Not Important** | baz    | qux        |
+<!-- |                   | Urgent | Not Urgent | -->
+<!-- |-------------------|--------|------------| -->
+<!-- | **Important**     | foo    | bar        | -->
+<!-- | **Not Important** | baz    | qux        | -->
+
+<table>
+  <colgroup>
+    <col style="text-align:left;"/>
+    <col style="text-align:left;"/>
+    <col style="text-align:left;"/>
+  </colgroup>
+
+  <thead>
+    <tr>
+      <th style="text-align:left;"></th>
+      <th style="text-align:left;">Urgent</th>
+      <th style="text-align:left;">Not Urgent</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td style="text-align:left;"><strong>Important</strong></td>
+      <td style="text-align:left;">
+        <li>foo</li>
+          <ul>
+            <li>foo</li>
+            <li>bar</li>
+            <li>baz</li>
+          </ul>
+        <li>bar</li>
+        <li>baz</li>
+      </td>
+      <td style="text-align:left;">
+        <li>foo</li>
+        <li>bar</li>
+        <li>baz</li>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left;"><strong>Not Important</strong></td>
+      <td style="text-align:left;">
+        <li>foo</li>
+        <li>bar</li>
+        <li>baz</li>
+      </td>
+      <td style="text-align:left;">
+        <li>foo</li>
+        <li>bar</li>
+        <li>baz</li>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 TODO-list-1: Some stuff to sort out before 2016 comes
 -----------------------------------------------------
 
 - [ ] Delete unused Mac apps
+- [ ] Delete unused iPhone apps
+
+TODO-list-2: What I want to do in 2016
+--------------------------------------
+
+### Mac OS X refreshment
+
+- [ ] Do a clean install the OS X on the new SSD -- do this as soon as I am done with Coursera Machine Learning Course
     - [ ] Make sure all the basics stuff is backed up
         - [ ] dotfiles
         - [ ] Contacts
@@ -123,18 +181,9 @@ TODO-list-1: Some stuff to sort out before 2016 comes
         - [ ] BetterTouchTool settings
         - [ ] keychain Access items
         - [ ] Dash backup
-- [ ] Delete unused iPhone apps
-
-TODO-list-2: What I want to do in 2016
---------------------------------------
-
-### Mac OS X refreshment
-
-- [ ] Do a clean install the OS X on the new SSD
-    - Do this as soon as I am done with Coursera Machine Learning Course
     - [ ] Do the OS X provisioning using Ansible
         - My ansible playbook can be executed with `-C`/`--check` option, a dry-run command
-        - Enhance the settings
+        - [ ] Now enhance the settings
 
 ### Learn, learn, learn
 
