@@ -24,7 +24,7 @@ to organise my tasks.
 I might not use the method as it is supposed to be
 but I roughly use this method in a way that I feel comfortable to work on.
 
-Instead of using the four quadrants I use four separate unordered lists.
+~~Instead of using the four quadrants I use four separate unordered lists.~~
 
 <sub>For detailed information about the Eisenhower Method read:</sub>
 
@@ -35,75 +35,16 @@ Eisenhower List
 
 ### TODO-1: Important, Urgent
 
-- [ ] Sort contracts
-
 ### TODO-2: Important, Not urgent
-
-- Do meteor tutorials as many as possible:
-    - [Official Todo Apps](https://www.meteor.com/learn)
-    - [scotch.io](https://scotch.io/?s=meteor)
-    - [angular-meteor.com](http://angular-meteor.com/)
-- [ ] Install some basic npm packages globally for tweaking
-    - Install must-have global npm packages; for example:
-        - jslint, jshint or eshint; get the best one
-        - gulp
-        - grunt-cli
-        - coffee-script
-        - bower
-        - browserify
-        - nodemon
-        - https://github.com/suan/vim-instant-markdown
-        - etc
-    - I had some npm packages installed with the Homebrew version of Node.js
-      -- I deleted everything already TODO: summarise how how to delete Node.js
-      and npm from the system;
-      these were the global packages installed previously:
-
-        ```
-        # Previously I installed these packages
-        # when Node.js + npm were installed via Homebrew,
-        # and I don't know these should have been installed globally.
-        $ npm list -g --depth=0
-        /usr/local/lib
-        ├── bower@1.6.3
-        ├── browserify@11.2.0
-        ├── doctoc@0.15.0
-        ├── gulp@3.9.0
-        ├── javascripting@2.1.0
-        ├── npm@3.3.9
-        └── ungit@0.9.3
-        ```
-- Install Vim plug-ins or tweak settings:
-    - Markdown related:
-        - Find out how to do LaTeX writing compatible for GitHub Flavoured Markdown
-    - completion
-    - syntax checkers
-        - JavaScript: [JSLint](http://www.jslint.com/)
-          vs [JSHint](http://jshint.com/)
-          vs [ESLint](http://eslint.org/)
-- [ ] Find out how to create a remote repository on GitHub
-      from the local terminal
-    - This can be done using the [GitHub APIs](https://developer.github.com/v3/)
-    - Read the following pages:
-        - [Create a Github Repo from the Command Line](https://viget.com/extend/create-a-github-repo-from-the-command-line)
-        - [Stack Overflow: Is it possible to create a remote repo on GitHub from the CLI without ssh?](http://stackoverflow.com/questions/2423777/is-it-possible-to-create-a-remote-repo-on-github-from-the-cli-without-ssh)
-- Sort emails inside Mailbox.app
 
 ### TODO-3: Not important, Urgent
 
 ### TODO-4: Not important, Not urgent
 
-- [ ] Fix errors on existing jekyll projects
-- [ ] Test [PSD viewing and diffing](https://github.com/blog/1845-psd-viewing-diffing) in this test repository
-- [ ] Install f.lux on iPhone
-- [ ] Read though http://www.codenewbie.org/
-- [ ] Look into [karan/joe](https://github.com/karan/joe),
-      a gitignore file generator
-
 Eisenhower Box
 --------------
 
-TODO: Test if a markdown table can replicate the real Eisenhower Box
+For an organisational purpose, instead of using a Markdown table, I used HTML code to create this four quadrant box.
 
 <!-- |                   | Urgent | Not Urgent | -->
 <!-- |-------------------|--------|------------| -->
@@ -129,32 +70,61 @@ TODO: Test if a markdown table can replicate the real Eisenhower Box
     <tr>
       <td style="text-align:left;"><strong>Important</strong></td>
       <td style="text-align:left;">
-        <li>foo</li>
-          <ul>
-            <li>foo</li>
-            <li>bar</li>
-            <li>baz</li>
-          </ul>
-        <li>bar</li>
-        <li>baz</li>
+      <!-- Important, Urgent -->
+        <li>[ ] Sort contracts</li>
       </td>
       <td style="text-align:left;">
-        <li>foo</li>
-        <li>bar</li>
-        <li>baz</li>
+      <!-- Important, Not Urgent -->
+        <li>Do meteor tutorials as many as possible:</li>
+          <ul>
+            <li>[official todo apps](https://www.meteor.com/learn)</li>
+            <li>[scotch.io](https://scotch.io/?s=meteor)</li>
+            <li>[angular-meteor.com](http://angular-meteor.com/)</li>
+          </ul>
+        <li>[ ] Install some basic npm packages globally for tweaking</li>
+          <ul>
+            <li>Install must-have global npm packages; for example:</li>
+              <ul>
+                <li>jslint, jshint or eshint; get the best one</li>
+                <li>gulp</li>
+                <li>grunt-cli</li>
+                <li>coffee-script</li>
+                <li>bower</li>
+                <li>browserify</li>
+                <li>nodemon</li>
+                <li>https://github.com/suan/vim-instant-markdown</li>
+                <li>etc</li>
+              </ul>
+          </ul>
+        <li>Install Vim plug-ins or tweak settings:</li>
+          <ul>
+            <li>Markdown related:</li>
+              <ul>
+                <li>Find out how to do LaTeX writing compatible for GitHub Flavoured Markdown</li>
+              </ul>
+            <li>Completion</li>
+            <li>Syntax checkers</li>
+            <li>JavaScript: [JSLint](http://www.jslint.com/) vs [JSHint](http://jshint.com/) vs [ESLint](http://eslint.org/)</li>
+          </ul>
+        <li>[ ] Find out how to create a remote repository on GitHub from the local terminal</li>
+        <li>Sort emails inside Mailbox.app</li>
       </td>
     </tr>
     <tr>
       <td style="text-align:left;"><strong>Not Important</strong></td>
       <td style="text-align:left;">
-        <li>foo</li>
-        <li>bar</li>
-        <li>baz</li>
+      <!-- Not important, Urgent -->
+        <!-- <li>foo</li> -->
+        <!-- <li>bar</li> -->
+        <!-- <li>baz</li> -->
       </td>
       <td style="text-align:left;">
-        <li>foo</li>
-        <li>bar</li>
-        <li>baz</li>
+      <!-- Not important, Not Urgent -->
+        <li>[ ] Fix errors on existing jekyll projects</li>
+        <li>[ ] Test [PSD viewing and diffing](https://github.com/blog/1845-psd-viewing-diffing) in this test repository</li>
+        <li>[ ] Install f.lux on iPhone</li>
+        <li>[ ] Read though http://www.codenewbie.org/</li>
+        <li>[ ] Look into [karan/joe](https://github.com/karan/joe), a gitignore file generator</li>
       </td>
     </tr>
   </tbody>
