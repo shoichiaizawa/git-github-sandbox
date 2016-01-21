@@ -30,17 +30,6 @@ but I roughly use this method in a way that I feel comfortable to work on.
 
 - <sub>http://jamesclear.com/eisenhower-box</sub>
 
-Eisenhower List
----------------
-
-### TODO-1: Important, Urgent
-
-### TODO-2: Important, Not urgent
-
-### TODO-3: Not important, Urgent
-
-### TODO-4: Not important, Not urgent
-
 Eisenhower Box
 --------------
 
@@ -71,7 +60,7 @@ For an organisational purpose, instead of using a Markdown table, I used HTML co
       <td style="text-align:left;"><strong>Important</strong></td>
       <td style="text-align:left;">
       <!-- Important, Urgent -->
-        <li>[ ] Sort contracts</li>
+        <li><input type="checkbox">Sort contracts</li>
       </td>
       <td style="text-align:left;">
       <!-- Important, Not Urgent -->
@@ -81,7 +70,7 @@ For an organisational purpose, instead of using a Markdown table, I used HTML co
             <li>[scotch.io](https://scotch.io/?s=meteor)</li>
             <li>[angular-meteor.com](http://angular-meteor.com/)</li>
           </ul>
-        <li>[ ] Install some basic npm packages globally for tweaking</li>
+        <li><input type="checkbox">Install some basic npm packages globally for tweaking</li>
           <ul>
             <li>Install must-have global npm packages; for example:</li>
               <ul>
@@ -106,8 +95,10 @@ For an organisational purpose, instead of using a Markdown table, I used HTML co
             <li>Syntax checkers</li>
             <li>JavaScript: [JSLint](http://www.jslint.com/) vs [JSHint](http://jshint.com/) vs [ESLint](http://eslint.org/)</li>
           </ul>
-        <li>[ ] Find out how to create a remote repository on GitHub from the local terminal</li>
+        <li><input type="checkbox">Find out how to create a remote repository on GitHub from the local terminal</li>
         <li>Sort emails inside Mailbox.app</li>
+        <li><input type="checkbox">Delete unused Mac apps</li>
+        <li><input type="checkbox">Delete unused iPhone apps</li>
       </td>
     </tr>
     <tr>
@@ -120,23 +111,17 @@ For an organisational purpose, instead of using a Markdown table, I used HTML co
       </td>
       <td style="text-align:left;">
       <!-- Not important, Not Urgent -->
-        <li>[ ] Fix errors on existing jekyll projects</li>
-        <li>[ ] Test [PSD viewing and diffing](https://github.com/blog/1845-psd-viewing-diffing) in this test repository</li>
-        <li>[ ] Install f.lux on iPhone</li>
-        <li>[ ] Read though http://www.codenewbie.org/</li>
-        <li>[ ] Look into [karan/joe](https://github.com/karan/joe), a gitignore file generator</li>
+        <li><input type="checkbox">Fix errors on existing jekyll projects</li>
+        <li><input type="checkbox">Test [PSD viewing and diffing](https://github.com/blog/1845-psd-viewing-diffing) in this test repository</li>
+        <li><input type="checkbox">Install f.lux on iPhone</li>
+        <li><input type="checkbox">Read though http://www.codenewbie.org/</li>
+        <li><input type="checkbox">Look into [karan/joe](https://github.com/karan/joe), a gitignore file generator</li>
       </td>
     </tr>
   </tbody>
 </table>
 
-TODO-list-1: Some stuff to sort out before 2016 comes
------------------------------------------------------
-
-- [ ] Delete unused Mac apps
-- [ ] Delete unused iPhone apps
-
-TODO-list-2: What I want to do in 2016
+TODO-list-1: What I want to do in 2016
 --------------------------------------
 
 ### Mac OS X refreshment
