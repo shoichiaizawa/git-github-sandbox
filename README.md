@@ -387,11 +387,36 @@ V-LINE and S>p class="important"
 </p>
 ```
 
-Machine Learning
-----------------
+Machine Learning, Neural Networks, Deep Learning
+------------------------------------------------
+
+TODO: Sort list items for better readability
+
+Some of Machine Learning, Neural Networks, Deep Learning resources collected on the internet I found interesting are listed below.
+
+### MOOCs (listed: courses, learning resources)
 
 - [Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
+
+### Readings (listed: learning resources)
+
 - [7 Steps to Mastering Machine Learning With Python](http://www.kdnuggets.com/2015/11/seven-steps-machine-learning-python.html)
+
+### GitHub repositories (listed: learning resources, notes, libraries, frameworks)
+
+- [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) -- Dive into Machine Learning with Python Jupyter notebook and scikit-learn http://hangtwenty.github.io/dive-into-machine-learning
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) -- Continually updated data science Python notebooks: Spark, Hadoop MapReduce, HDFS, Kaggle, deep learning (TensorFlow, Theano, Caffe), scikit-learn, matplotlib, pandas, NumPy, SciPy, AWS, and various command lines. https://bit.ly/data-notes
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) -- Computation using data flow graphs for scalable machine learning http://tensorflow.org
+- [BVLC/caffe](https://github.com/BVLC/caffe) -- Caffe: a fast open framework for deep learning. http://caffe.berkeleyvision.org/
+- [google/deepdream](https://github.com/google/deepdream) -- No description or website provided.
+    - DeepDream is a computer vision program created by Google which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dreamlike hallucinogenic appearance in the deliberately over-processed images. -- [Wikipedia](https://en.wikipedia.org/wiki/DeepDream)
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) -- scikit-learn: machine learning in Python http://scikit-learn.org
+- [pfnet/chainer](https://github.com/pfnet/chainer) -- A flexible framework of neural networks for deep learning http://chainer.org
+- [autumnai/leaf](https://github.com/autumnai/leaf) -- Open Machine Intelligence Framework http://autumnai.github.io/leaf
+- [cmusatyalab/openface](https://github.com/cmusatyalab/openface) -- Face recognition with deep neural networks. http://cmusatyalab.github.io/openface/
+- [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
+- [karpathy/neuraltalk2](https://github.com/karpathy/neuraltalk2) -- Efficient Image Captioning code in Torch, runs on GPU
+- [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) -- Torch implementation of neural style algorithm
+- [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) -- Make images look as if they are made out of 1x1 LEGO blocks
+- [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) -- A recurrent neural network for generating little stories about images
