@@ -1,12 +1,9 @@
 git-github-sandbox
 ==================
 
-This repository does not contain any programming code,
-but solely exists for me to be able to play around with git commands
-and see how all my actions can affect both local and remote repositories.
+This repository does not contain any programming code, but solely exists for me to be able to play around with git commands and see how all my actions can affect both local and remote repositories.
 
-I am also planning to use this repository as todo lists
-for my projects or general stuff, for now at least I can say.
+I am also planning to use this repository as todo lists for my projects or general stuff, for now at least I can say.
 
 --------------------------------------------------------------------------------
 
@@ -19,10 +16,7 @@ TODOs
 > The urgent are not important, and the important are never urgent."
 > -- Dwight D. Eisenhower
 
-I decided to employ the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method)
-to organise my tasks.
-I might not use the method as it is supposed to be
-but I roughly use this method in a way that I feel comfortable to work on.
+I decided to employ the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method) to organise my tasks. I might not use the method as it is supposed to be but I roughly use this method in a way that I feel comfortable to work on.
 
 ~~Instead of using the four quadrants I use four separate unordered lists.~~
 
@@ -145,11 +139,9 @@ TODO-list-1: What I want to do in 2016
 - Do MOOCs courses
     - Coursera:
     - edX:
-        - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6)
-          -- starts on **January 13, 2016**
+        - [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6) -- starts on **January 13, 2016**
     - Other info:
-        - [open-source-society/computer-science](https://github.com/open-source-society/computer-science)
-          suggests a curriculum with a range of Computer Science courses from various MOOC providers
+        - [open-source-society/computer-science](https://github.com/open-source-society/computer-science) suggests a curriculum with a range of Computer Science courses from various MOOC providers
         - [Replicating a BSc in Computer Science through MOOCs](http://gregorulm.com/replicating-a-bsc-in-computer-science-through-moocs/)
             - [gregorulm/mooc](https://github.com/gregorulm/mooc)
 - Lynda courses
@@ -171,29 +163,17 @@ DONEs
 ### 2015-11-15
 
 - [x] Find a decent version control software for design projects
-      -- [Pixelapse](https://www.pixelapse.com/)
-      looks compelling and its free tier offers unlimited public projects
-    - [According to VentureBeat](http://venturebeat.com/2014/06/05/for-designers-version-control-is-a-big-problem-but-github-is-close-to-solving-it/),
-      GitHub announced on June 6 2014 that they had started
-      supporting PSD viewing and diffing.
-      See their [official blog post on June 6 2014](https://github.com/blog/1845-psd-viewing-diffing).
+      -- [Pixelapse](https://www.pixelapse.com/) looks compelling and its free tier offers unlimited public projects
+    - [According to VentureBeat](http://venturebeat.com/2014/06/05/for-designers-version-control-is-a-big-problem-but-github-is-close-to-solving-it/), GitHub announced on June 6 2014 that they had started supporting PSD viewing and diffing. See their [official blog post on June 6 2014](https://github.com/blog/1845-psd-viewing-diffing).
 
 ### 2015-11-13
 
 ##### Summary
 
-I was planning to work on the existing jekyll generated blog powered
-by jekyll-bootstrap and host it at username.github.io
-but in the end I abandoned it.
-I changed the name of the repository
-and created another repository named username.github.io.
+I was planning to work on the existing jekyll generated blog powered by jekyll-bootstrap and host it at username.github.io but in the end I abandoned it. I changed the name of the repository and created another repository named username.github.io.
 
-There is no content at this time.
-So my next goal about static site blogging is
-to wrote blog post in a regular basis.
-I was recommended that I should still to a regular publishing plan.
-Whether publishing once a day, once in three days or once in a week,
-it is important to keep on doing it.
+There is no content at this time. So my next goal about static site blogging is
+to wrote blog post in a regular basis. I was recommended that I should still to a regular publishing plan. Whether publishing once a day, once in three days or once in a week, it is important to keep on doing it.
 
 - [x] Air the jekyll blog, with or without a unique domain
 
@@ -206,13 +186,7 @@ Not important but I wanted to do
 
 ##### Summary
 
-As planned I did install Node.js and npm via nvm.
-Spending much time on reading about how to install nvm,
-I came across some people insisting that
-[nvm should not be installed via Homebrew at all](https://github.com/creationix/nvm/issues/469)
-(and even saying nvm installation with Homebrew is an unofficial method;
-thus one should install nvm only the official way)
-but I used Homebrew to install it.
+As planned I did install Node.js and npm via nvm. Spending much time on reading about how to install nvm, I came across some people insisting that [nvm should not be installed via Homebrew at all](https://github.com/creationix/nvm/issues/469) (and even saying nvm installation with Homebrew is an unofficial method; thus one should install nvm only the official way) but I used Homebrew to install it.
 
 Here are some of the websites/blogs I visited when installing nvm:
 
@@ -223,15 +197,12 @@ Here are some of the websites/blogs I visited when installing nvm:
 ##### Original TODOs
 
 - [x] Install Node.js via brew, nvm, n, nodebrew, or others
-    - I would probably go with nvm as it has the most stars on GitHub
-      among other Node.js version managers.
-      Also nvm seems the most active on GitHub
+    - I would probably go with nvm as it has the most stars on GitHub among other Node.js version managers. Also nvm seems the most active on GitHub
     - Numbers of stars for each project (as of 2015-11-12):
         - [creationix/nvm](https://github.com/creationix/nvm) -- 9168 stars
         - [tj/n](https://github.com/tj/n) -- 3252 stars
         - [hokaccha/nodebrew](https://github.com/hokaccha/nodebrew) -- 459 stars
-    - Install npm -- npm is automatically comes
-      with a Node.js installation unless you exclude it
+    - Install npm -- npm is automatically comes with a Node.js installation unless you exclude it
 
 --------------------------------------------------------------------------------
 
@@ -284,8 +255,7 @@ See also: #456, #789
 ```
 
 See the blog post:
-[How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
-for details.
+[How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/) for details.
 
 Other readings relating to Git commit messaging:
 
@@ -334,8 +304,7 @@ See: https://guides.github.com/introduction/flow/index.html
 Jekyll and other static site generators
 ---------------------------------------
 
-- [Jekyll powered sites (from Jekyll GitHub Wiki)](https://github.com/jekyll/jekyll/wiki/sites)
-  -- a list of sites powered by Jekyll
+- [Jekyll powered sites (from Jekyll GitHub Wiki)](https://github.com/jekyll/jekyll/wiki/sites) -- a list of sites powered by Jekyll
 
 LICENSES information
 --------------------
@@ -356,10 +325,8 @@ Non-code:
 
 References:
 
-- [choosealicense.com](http://choosealicense.com/)
-  -- this is created by GitHub, thanks to Jessica Lord for sharing this!
-- [github/choosealicense.com](https://github.com/github/choosealicense.com)
-  -- the GitHub repository of the website
+- [choosealicense.com](http://choosealicense.com/) -- this is created by GitHub, thanks to Jessica Lord for sharing this!
+- [github/choosealicense.com](https://github.com/github/choosealicense.com) -- the GitHub repository of the website
 
 Vim
 ---
