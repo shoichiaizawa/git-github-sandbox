@@ -373,30 +373,52 @@ Some of Machine Learning, Neural Networks, Deep Learning resources collected on 
 
 ### GitHub repositories (listed: learning resources, notes, libraries, frameworks)
 
-Learning Resources:
+#### Learning Resources:
 
 - [hangtwenty/dive-into-machine-learning](https://github.com/hangtwenty/dive-into-machine-learning) -- Dive into Machine Learning with Python Jupyter notebook and scikit-learn http://hangtwenty.github.io/dive-into-machine-learning
 - [donnemartin/data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) -- Continually updated data science Python notebooks: Spark, Hadoop MapReduce, HDFS, Kaggle, deep learning (TensorFlow, Theano, Caffe), scikit-learn, matplotlib, pandas, NumPy, SciPy, AWS, and various command lines. https://bit.ly/data-notes
 - [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning?utm_source=hackernewsletter&utm_medium=email&utm_term=learn) -- A curated list of awesome Machine Learning frameworks, libraries and software.
+- [johnmyleswhite/ML_for_Hackers](https://github.com/johnmyleswhite/ML_for_Hackers) -- Code accompanying the book "Machine Learning for Hackers" http://shop.oreilly.com/product/0636920018483.do
 
-Libraries and Frameworks:
+#### Libraries and Frameworks:
 
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) -- Computation using data flow graphs for scalable machine learning http://tensorflow.org
+- [PredictionIO/PredictionIO](https://github.com/PredictionIO/PredictionIO) -- PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/
 - [BVLC/caffe](https://github.com/BVLC/caffe) -- Caffe: a fast open framework for deep learning. http://caffe.berkeleyvision.org/
 - [google/deepdream](https://github.com/google/deepdream) -- No description or website provided.
     - DeepDream is a computer vision program created by Google which uses a convolutional neural network to find and enhance patterns in images via algorithmic pareidolia, thus creating a dreamlike hallucinogenic appearance in the deliberately over-processed images. -- [Wikipedia](https://en.wikipedia.org/wiki/DeepDream)
+- [dmlc/mxnet](https://github.com/dmlc/mxnet) -- Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more http://mxnet.rtfd.org
+- [dmlc/xgboost](https://github.com/dmlc/xgboost) -- Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, C++ and more
 - [pfnet/chainer](https://github.com/pfnet/chainer) -- A flexible framework of neural networks for deep learning http://chainer.org
 - [autumnai/leaf](https://github.com/autumnai/leaf) -- Open Machine Intelligence Framework http://autumnai.github.io/leaf
 
-TODO: Something:
+#### Face recognition
 
-- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) -- scikit-learn: machine learning in Python http://scikit-learn.org
 - [cmusatyalab/openface](https://github.com/cmusatyalab/openface) -- Face recognition with deep neural networks. http://cmusatyalab.github.io/openface/
-- [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
-- [karpathy/neuraltalk2](https://github.com/karpathy/neuraltalk2) -- Efficient Image Captioning code in Torch, runs on GPU
 
-Some interesting projects
+#### Some interesting projects
 
 - [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) -- Torch implementation of neural style algorithm
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) -- Make images look as if they are made out of 1x1 LEGO blocks
 - [ryankiros/neural-storyteller](https://github.com/ryankiros/neural-storyteller) -- A recurrent neural network for generating little stories about images
+
+#### Python
+
+- [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) -- scikit-learn: machine learning in Python http://scikit-learn.org
+- [clips/pattern](https://github.com/clips/pattern) -- Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization. http://www.clips.ua.ac.be/pages/pattern
+- [karpathy/neuraltalk](https://github.com/karpathy/neuraltalk) -- NeuralTalk is a Python+numpy project for learning Multimodal Recurrent Neural Networks that describe images with sentences.
+- [karpathy/neuraltalk2](https://github.com/karpathy/neuraltalk2) -- Efficient Image Captioning code in Torch, runs on GPU
+
+#### JavaScript
+
+- [karpathy/convnetjs](https://github.com/karpathy/convnetjs) -- Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
+
+#### Go
+
+- [sjwhitworth/golearn](https://github.com/sjwhitworth/golearn) -- Machine Learning for Go
+
+#### TODO: Something:
+
+- [numenta/nupic](https://github.com/numenta/nupic) -- Numenta Platform for Intelligent Computing: a brain-inspired machine intelligence platform, and biologically accurate neural network based on cortical learning algorithms. http://numenta.org/
+- [JohnLangford/vowpal_wabbit](https://github.com/JohnLangford/vowpal_wabbit) -- Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. http://hunch.net/~vw/
+
