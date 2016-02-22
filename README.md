@@ -290,6 +290,16 @@ See: https://guides.github.com/introduction/flow/index.html
 - [Alternatives To Git Submodule: Git Subtree](http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)
 - [The power of Git subtree](https://developer.atlassian.com/blog/2015/05/the-power-of-git-subtree/)
 
+### `git rebase`
+
+- [About Git rebase](https://help.github.com/articles/about-git-rebase/)
+
+### GitHub fork
+
+- [Fork A Repo](https://help.github.com/articles/fork-a-repo/)
+- [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
+- [octocat/Spoon-Knife](https://github.com/octocat/Spoon-Knife)
+
 ### GitHub Flavored Markdown (GFM)
 
 - [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
