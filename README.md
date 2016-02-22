@@ -311,6 +311,16 @@ See: https://guides.github.com/introduction/flow/index.html
 
 `$ git config --global github.user GITHUB_USERNAME`
 
+Programming naming convention
+-----------------------------
+
+- [What's the name for hyphen-separated case? \[closed\]](http://stackoverflow.com/questions/11273282/whats-the-name-for-hyphen-separated-case) -- Stack Overflow
+- [Naming convention (programming)](https://en.wikipedia.org/wiki/Naming_convention_(programming)) -- Wikipedia
+- [Letter cases -- Special case styles](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) -- Wikipedia
+    - [\[C/c\]amelCase](http://c2.com/cgi/wiki?CamelCase) -- Cunningham & Cunningham's WikiWikiWeb
+    - [PascalCase](http://c2.com/cgi/wiki?PascalCase)
+    - [kebab-case](http://c2.com/cgi/wiki?KebabCase)
+
 Jekyll and other static site generators
 ---------------------------------------
 
