@@ -331,22 +331,44 @@ LICENSES information
 
 > Get familiarised with Licenses
 
-For code:
+### For code:
 
-- MIT License
-- Apache License
-- GPL (V2 or V3)
-- more
+- MIT License:
+    - [MIT License -- choosealicense.com](http://choosealicense.com/licenses/mit/)
+    - [The MIT License (MIT) -- Open Source Initiative](https://opensource.org/licenses/MIT)
+    - [MIT License -- Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+- Apache License:
+    - [Appach Lisense 2.0 -- choosealicense.com](http://choosealicense.com/licenses/apache-2.0/)
+    - [Apache License, Version 2.0 -- Open Source Initiative](https://opensource.org/licenses/Apache-2.0)
+    - [Appach Lisense -- Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+- [GNU GPL (V2 or V3)](https://en.wikipedia.org/wiki/GNU_General_Public_License):
+    - GNU GPLv2:
+        - [GNU General Public License v2.0 -- choosealicense.com](http://choosealicense.com/licenses/gpl-2.0/)
+        - [GNU General Public License, version 2 (GPL-2.0) -- Open Source Initiative](https://opensource.org/licenses/GPL-2.0)
+        - [GNU General Public License, version 2 -- www.gnu.org](http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+    - GNU GPLv3:
+        - [GNU General Public License v3.0 -- choosealicense.com](http://choosealicense.com/licenses/gpl-3.0/)
+        - [GNU General Public License, version 3 (GPL-3.0) -- Open Source Initiative](https://opensource.org/licenses/GPL-3.0)
+        - [GNU General Public License -- www.gnu.org](http://www.gnu.org/licenses/gpl.html)
+- Other licenses:
+    - [Other licenses -- choosealicense.com](http://choosealicense.com/licenses/)
+    - [Licenses by Name -- Open Source Initiative](https://opensource.org/licenses/alphabetical)
+    - [Comparison of free and open-source software licenses -- Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licenses)
 
-Non-code:
+### Non-code:
 
-- Creative Commons
-- etc
+- [Creative Commons -- creativecommons.org](http://creativecommons.org/choose/)
+- [Creative Commons -- Wikipedia](https://en.wikipedia.org/wiki/Creative_Commons)
 
-References:
+### No License:
+
+- [No License -- choosealicense.com](http://chooseali)
+- [License-free software -- Wikipedia](https://en.wikipedia.org/wiki/License-free_software)
+
+##### References:
 
 - [choosealicense.com](http://choosealicense.com/) -- this is created by GitHub, thanks to Jessica Lord for sharing this!
-- [github/choosealicense.com](https://github.com/github/choosealicense.com) -- the GitHub repository of the website
+    - [github/choosealicense.com](https://github.com/github/choosealicense.com) -- the GitHub repository of the website
 
 Vim
 ---
