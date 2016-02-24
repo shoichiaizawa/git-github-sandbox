@@ -1,5 +1,0 @@
-- [What's the name for hyphen-separated case? \[closed\]](http://stackoverflow.com/questions/11273282/whats-the-name-for-hyphen-separated-case)
-- [Letter cases -- Special case styles](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles)
-- [\[C/c\]amelCase](http://c2.com/cgi/wiki?CamelCase)
-- [PascalCase](http://c2.com/cgi/wiki?PascalCase)
-- [kebab-case](http://c2.com/cgi/wiki?KebabCase)
