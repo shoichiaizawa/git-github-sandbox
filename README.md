@@ -324,7 +324,18 @@ Programming naming convention
 Jekyll and other static site generators
 ---------------------------------------
 
+### Jekyll
+
+- [jekyllthemes.org](http://jekyllthemes.org/)
+    - [mattvh/jekyllthemes](https://github.com/mattvh/jekyllthemes/) -- A directory of the best-looking themes for Jekyll blogs http://jekyllthemes.org/
 - [Jekyll powered sites (from Jekyll GitHub Wiki)](https://github.com/jekyll/jekyll/wiki/sites) -- a list of sites powered by Jekyll
+
+### Static site generators
+
+- [StaticGen](https://www.staticgen.com/)
+    - [netlify/staticgen](https://github.com/netlify/staticgen) -- StaticGen.com, A leaderboard of top open-source static site generators http://www.staticgen.com
+- [staticsitegenerators.net](https://staticsitegenerators.net/) -- The definitive listing of Static Site Generators — all 412 of them!
+    - [bevry/staticsitegenerators-website](https://github.com/bevry/staticsitegenerators-website) -- Website containing the complete listing of static site generators http://staticsitegenerators.net
 
 LICENSES information
 --------------------
