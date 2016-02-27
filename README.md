@@ -416,7 +416,8 @@ Some of Machine Learning, Neural Networks, Deep Learning resources collected on 
 
 ### MOOCs (listed: courses, learning resources)
 
-- [Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Coursera: Stanford University - Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+- [Udacity: Deep Learning by Vincent Vanhoucke from Google](https://www.udacity.com/course/deep-learning--ud730)
 - [Machine learning courses online](http://fastml.com/machine-learning-courses-online/)
 
 ### Readings (listed: learning resources)
