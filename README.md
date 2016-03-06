@@ -1,9 +1,12 @@
 git-github-sandbox
 ==================
 
-This repository does not contain any programming code, but solely exists for me to be able to play around with git commands and see how all my actions can affect both local and remote repositories.
+This repository does not contain any programming code, but solely exists for me
+to be able to play around with git commands and see how all my actions can
+affect both local and remote repositories.
 
-I am also planning to use this repository as todo lists for my projects or general stuff, for now at least I can say.
+I am also planning to use this repository as todo lists for my projects or
+general stuff, for now at least I can say.
 
 --------------------------------------------------------------------------------
 
@@ -16,7 +19,10 @@ TODOs
 > The urgent are not important, and the important are never urgent."
 > -- Dwight D. Eisenhower
 
-I decided to employ the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method) to organise my tasks. I might not use the method as it is supposed to be but I roughly use this method in a way that I feel comfortable to work on.
+I decided to employ the [Eisenhower
+Method](https://en.wikipedia.org/wiki/Time_management#The_Eisenhower_Method) to
+organise my tasks. I might not use the method as it is supposed to be but I
+roughly use this method in a way that I feel comfortable to work on.
 
 ~~Instead of using the four quadrants I use four separate unordered lists.~~
 
@@ -27,7 +33,8 @@ I decided to employ the [Eisenhower Method](https://en.wikipedia.org/wiki/Time_m
 Eisenhower Box
 --------------
 
-For an organisational purpose, instead of using a Markdown table, I used HTML code to create this four quadrant box.
+For an organisational purpose, instead of using a Markdown table, I used HTML
+code to create this four quadrant box.
 
 <!-- |                   | Urgent | Not Urgent | -->
 <!-- |-------------------|--------|------------| -->
@@ -170,10 +177,15 @@ DONEs
 
 ##### Summary
 
-I was planning to work on the existing jekyll generated blog powered by jekyll-bootstrap and host it at username.github.io but in the end I abandoned it. I changed the name of the repository and created another repository named username.github.io.
+I was planning to work on the existing jekyll generated blog powered by
+jekyll-bootstrap and host it at username.github.io but in the end I abandoned
+it. I changed the name of the repository and created another repository named
+username.github.io.
 
 There is no content at this time. So my next goal about static site blogging is
-to wrote blog post in a regular basis. I was recommended that I should still to a regular publishing plan. Whether publishing once a day, once in three days or once in a week, it is important to keep on doing it.
+to wrote blog post in a regular basis. I was recommended that I should still to
+a regular publishing plan. Whether publishing once a day, once in three days or
+once in a week, it is important to keep on doing it.
 
 - [x] Air the jekyll blog, with or without a unique domain
 
@@ -186,7 +198,12 @@ Not important but I wanted to do
 
 ##### Summary
 
-As planned I did install Node.js and npm via nvm. Spending much time on reading about how to install nvm, I came across some people insisting that [nvm should not be installed via Homebrew at all](https://github.com/creationix/nvm/issues/469) (and even saying nvm installation with Homebrew is an unofficial method; thus one should install nvm only the official way) but I used Homebrew to install it.
+As planned I did install Node.js and npm via nvm. Spending much time on reading
+about how to install nvm, I came across some people insisting that [nvm should
+not be installed via Homebrew at
+all](https://github.com/creationix/nvm/issues/469) (and even saying nvm
+installation with Homebrew is an unofficial method; thus one should install nvm
+only the official way) but I used Homebrew to install it.
 
 Here are some of the websites/blogs I visited when installing nvm:
 
@@ -412,7 +429,8 @@ Machine Learning, Neural Networks, Deep Learning
 
 TODO: Sort list items for better readability
 
-Some of Machine Learning, Neural Networks, Deep Learning resources collected on the internet I found interesting are listed below.
+Some of Machine Learning, Neural Networks, Deep Learning resources collected on
+the internet I found interesting are listed below.
 
 ### MOOCs (listed: courses, learning resources)
 
